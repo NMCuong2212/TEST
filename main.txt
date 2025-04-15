@@ -5,4 +5,8 @@ Hello twice
 FPT
 T e r m i n a l 
  LHA
+<<<<<<< HEAD
  NKQ
+=======
+ NMC
+>>>>>>> f371fb8273e3074206fbdf18a6ef46128a69d76b
